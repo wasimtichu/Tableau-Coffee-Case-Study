@@ -2,9 +2,6 @@
 
 https://public.tableau.com/app/profile/md.wasim.akhtar3999/viz/CoffeeCaseStudy_17246708160580/AreaCodesOfCalifornia
 
-Use the data source “Sample – Coffee Chain” for the below questions. Attach the screenshots
-of the visualizations everywhere along with the answer. Also, upload the final workbook in
-Tableau public and give the link for the same.
 1. Compare the Budget Sales and Budget Profit with Actual Sales and Profit and write your
 findings.
 2. Create Top N parameter to find top state based on Profit for Major market size.
